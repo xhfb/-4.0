@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#3.0版本
+#4.0版本
 from math import e
 import sys
 import threading
