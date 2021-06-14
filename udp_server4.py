@@ -37,7 +37,7 @@ class Check_YZM(object):
 class Emailsender(object):
     '''
     发送邮箱
-    {"1":{"email":"2285273839@qq.com","password":"3047881xfb","successtimes":0},"2":{"email":"2285273839@qq.com","password":"3047881xfb","usedtimes":0}}
+    {"1":{"email":"11@qq.com","password":"2211","successtimes":0},"2":{"email":"2239@qq.com","password":"308b","usedtimes":0}}
     '''
     def __init__(self,email_queue):
         self.email_queue=email_queue
