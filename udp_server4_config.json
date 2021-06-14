@@ -1,0 +1,12 @@
+{
+    "local_IP": "xxx",
+    "public_IP": "xxx",
+    "port": xxxx,
+    "num_a_q": 题目数量(int),
+    "q_address": "/root/sse/q_a(题目地址)",
+    "a_address": "/root/sse/q_a（答案地址）",
+    "Account_and_password_address": "/root/sse/users_info/Account_and_password.json(用户信息储存文件首地址)",
+    "temp_Account_and_password_address": "/root/sse/users_info/temp_Account_and_password.json",
+    "upload_by_user_address": "/root/sse/upload_by_user（用户上传题目储存地址）",
+    "email": { "1": { "email": "邮箱", "password": "授权码", "successtimes": 0 } }
+}
